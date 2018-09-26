@@ -118,6 +118,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [iScaffold](https://github.com/tiborsaas/iScaffold) - A CRUD application generator.
 * [Codeigniter CRUD Generator](https://bitbucket.org/harviacode/codeigniter-crud-generator) - CRUD Generator is a simple tool to auto generate MVC.
 * [Combustor](http://rougin.github.io/combustor) - Lets you generate controllers, models, and views from database tables for CodeIgniter.
+* [CRUDigniter](http://www.crudigniter.com/) - Online CRUD generator for CodeIgniter
 
 ## Templates
 * [Twiggy](https://github.com/edmundask/codeigniter-twiggy) - Template engine implementation for CodeIgniter.
